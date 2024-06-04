@@ -33,7 +33,7 @@ Repositori ini berisi proyek untuk melatih kemampuan slicing UI saya berdasarkan
 `npm run dev`
 
 ## Preview
-![Screenshot UI](https://github.com/hannw171/anima-landing-ui-1/blob/main/src/assets/ui-1.png)
+![Screenshot UI](https://github.com/hannw171/anima-landing-ui-2/blob/main/src/assets/ui-2.png)
 
 ## Screen Version
 - [x] Website version
